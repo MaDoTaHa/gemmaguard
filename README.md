@@ -4,9 +4,6 @@ GemmaGuard: An Offline, On-Device Phishing &amp; Social-Engineering Detector pow
 
 **An on-device Phishing & Social-Engineering Detector powered by Google Gemma 3n**
 
-**Live Demo:** https://your-demo.url  
-**Video Demo:** https://youtu.be/your-video
-
 ---
 
 ## 🚀 Overview
